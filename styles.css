@@ -1,0 +1,23 @@
+
+body{
+	background-color: #fff1d0;
+	color:#003249;
+}
+
+.container{
+	background-color:white;
+	border: medium solid;
+	border-color:;
+	border-radius: 20px;
+	padding-left: 60px;
+	text-align: center;
+
+      justify-content: center;
+      align-items: center;
+ 
+	
+}
+
+img{
+	width: 40%;
+}
